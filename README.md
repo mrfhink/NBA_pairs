@@ -1,4 +1,5 @@
-#Task
+# Task
+
 The task is to create an application that takes a single integer input. The application will download the raw data from the website above (https://mach-eight.uc.r.appspot.com) and print a list of all pairs of players whose height in inches adds up to the integer input to the application. If no matches are found, the application will print "No matches found"
 
 Sample output is as follows:
@@ -12,6 +13,8 @@ Sample output is as follows:
 The script asks for a number which is going to be searched by adding 2 heights values in the height list. The script will not iterate n*n times. We are assuming that we only need an unordered combination of heights which being added up will result in the number entered by the user. 
 
 ![Screenshot from 2022-02-01 16-23-10](https://user-images.githubusercontent.com/15699676/152055445-95fe5715-1add-42d6-8417-03df49ff1acd.png)
+
+## Usage
 
 Run 
 
