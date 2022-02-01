@@ -11,7 +11,7 @@ Sample output is as follows:
 
 The script asks for a number which is going to be searched by adding 2 heights values in the height list. The script will not iterate n*n times. We are assuming that we only need an unordered combination of heights which being added up will result in the number entered by the user. 
 
-![Script Iteration](/home/fhink/Pictures/Screenshot from 2022-02-01 16-23-10.png  "Script Iteration")
+![Screenshot from 2022-02-01 16-23-10](https://user-images.githubusercontent.com/15699676/152055445-95fe5715-1add-42d6-8417-03df49ff1acd.png)
 
 Run 
 
